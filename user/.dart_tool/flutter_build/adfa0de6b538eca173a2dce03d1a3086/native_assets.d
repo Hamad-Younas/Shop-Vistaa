@@ -1,0 +1,1 @@
+ E:\\5th\ semester\\MAD\\final\ mad\\ShopVistaUserApp\\.dart_tool\\flutter_build\\adfa0de6b538eca173a2dce03d1a3086\\native_assets.yaml: 

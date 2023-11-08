@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463265488556",
+    "project_id": "fluttershopvista-f228e",
+    "storage_bucket": "fluttershopvista-f228e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463265488556:android:5511db001c88d943a18909",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8awY1w49MAqfjTnXHg0xoIQ-i4WCBPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463265488556:android:8e84c42353fe8393a18909",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8awY1w49MAqfjTnXHg0xoIQ-i4WCBPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
